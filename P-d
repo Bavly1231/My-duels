@@ -16,6 +16,10 @@ delay(6, function()
 end)
 
 -- Slow Fall script (runs immediately)
-delay(0, function()
+delay(2, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/S-f/refs/heads/main/S-f"))()
+end)
+
+delay(5, function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Fgjfdfjfgcg/refs/heads/main/S%26f"))()
 end)
