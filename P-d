@@ -3,11 +3,6 @@ delay(0, function()
     script_key = loadstring(game:HttpGet("https://raw.githubusercontent.com/irishhub-scriptzzz/Irish-Hub-Auto-Steal/refs/heads/main/Irish%20Hub%20Auto%20Steal.lua"))()
 end)
 
--- Script 2 (runs after 3 seconds)
-delay(8, function() 
-    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/0a9bc309a4ac30c88b21654f1d1344c73067ccce12900057b45d27a038c75b64/download"))() 
-end)
-
 -- Script 3 (runs after 6 seconds)
 delay(6, function() 
     script_key = "QBNkJLZCyojBjPbqSlzwVxkAJUYbRLtU"
