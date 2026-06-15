@@ -9,7 +9,7 @@ delay(6, function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d47f8d2ed22f9df49f656747ee11839c.lua"))()"))() 
 end)
 
--- Slow Fall script (runs immediately)
+-- optimizer script (runs immediately)
 delay(2, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Optim/refs/heads/main/Optimizer"))()
 end)
@@ -24,4 +24,10 @@ end)
 delay(8, function()
     script_key="XFXhGrdbQMBUNhjaJkASmJsUEARsOTjw";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/adca10c14ea68d879dda8ea0e0f0188d.lua"))()
+end)
+
+
+-- tp down
+delay(7, function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Down/refs/heads/main/Tp%20down"))()
 end)
