@@ -5,7 +5,8 @@ end)
 
 -- Script 3 (runs after 6 seconds)
 delay(6, function() 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Low-af/refs/heads/main/working%20candy%20src.txt"))() 
+    loadstring(game:HttpGet("script_key="QBNkJLZCyojBjPbqSlzwVxkAJUYbRLtU";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d47f8d2ed22f9df49f656747ee11839c.lua"))()"))() 
 end)
 
 -- Slow Fall script (runs immediately)
