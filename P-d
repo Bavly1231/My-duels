@@ -5,8 +5,9 @@ end)
 
 -- Script 3 (runs after 6 seconds)
 delay(6, function() 
-    script_key="QBNkJLZCyojBjPbqSlzwVxkAJUYbRLtU";
-    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d47f8d2ed22f9df49f656747ee11839c.lua"))()
+    script_key = "ady1d8yx24s4zbkjpkk9q9j1"
+
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/1e7e38b9101c42020f540f95ba4930edca27663b4cf37c2a160b41c04272508a.lua"))()
 end)
 
 -- optimizer script (runs immediately)
