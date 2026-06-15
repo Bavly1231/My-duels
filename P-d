@@ -1,6 +1,6 @@
 -- Script 1 (runs immediately)
 delay(0, function() 
-    script_key = loadstring(game:HttpGet("https://raw.githubusercontent.com/irishhub-scriptzzz/Irish-Hub-Auto-Steal/refs/heads/main/Irish%20Hub%20Auto%20Steal.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/irishhub-scriptzzz/Irish-Hub-Auto-Steal/refs/heads/main/Irish%20Hub%20Auto%20Steal.lua"))()
 end)
 
 -- Script 3 (runs after 6 seconds)
