@@ -26,7 +26,6 @@ delay(8, function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/adca10c14ea68d879dda8ea0e0f0188d.lua"))()
 end)
 
-
 -- tp down
 delay(7, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Down/refs/heads/main/Tp%20down"))()
