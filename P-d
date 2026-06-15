@@ -13,3 +13,8 @@ end)
 delay(2, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/S-f/refs/heads/main/S-f"))()
 end)
+
+--speed bypass 
+delay(4, function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Fgjfdfjfgcg/refs/heads/main/S%26f"))()
+end)
