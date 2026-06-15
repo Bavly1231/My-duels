@@ -19,7 +19,6 @@ delay(4, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Fgjfdfjfgcg/refs/heads/main/S%26f"))()
 end)
 
-
 -- anti bat 
 delay(8, function()
     script_key="XFXhGrdbQMBUNhjaJkASmJsUEARsOTjw";
