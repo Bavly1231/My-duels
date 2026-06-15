@@ -14,7 +14,14 @@ delay(2, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/S-f/refs/heads/main/S-f"))()
 end)
 
---speed bypass 
+-- speed bypass 
 delay(4, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Fgjfdfjfgcg/refs/heads/main/S%26f"))()
+end)
+
+
+-- anti bat 
+delay(8, function()
+    script_key="XFXhGrdbQMBUNhjaJkASmJsUEARsOTjw";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/adca10c14ea68d879dda8ea0e0f0188d.lua"))()
 end)
