@@ -28,5 +28,5 @@ end)
 
 -- tp down
 delay(7, function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Down/refs/heads/main/Tp%20down"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Infinite-down/refs/heads/main/Tp%20down%20infinite%20jump%202-1"))()
 end)
