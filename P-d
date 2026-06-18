@@ -5,9 +5,7 @@ end)
 
 -- Script 3 (runs after 6 seconds)
 delay(6, function() 
-    script_key = "ady1d8yx24s4zbkjpkk9q9j1"
-
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/1e7e38b9101c42020f540f95ba4930edca27663b4cf37c2a160b41c04272508a.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/E-D/refs/heads/main/Mobile-1.txt"))()
 end)
 
 -- optimizer script (runs immediately)
