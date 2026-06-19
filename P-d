@@ -5,9 +5,8 @@ end)
 
 -- Script 3 (runs after 6 seconds)
 delay(6, function() 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/E-D/refs/heads/main/Mobile-1.txt"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/E-d3/refs/heads/main/Envy%20duels%203"))()
 end)
-
 -- optimizer script (runs immediately)
 delay(2, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bavly1231/Optim/refs/heads/main/Optimizer"))()
